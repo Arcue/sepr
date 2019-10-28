@@ -1,2 +1,2 @@
 # sepr
-crap
+Secure programnming course
